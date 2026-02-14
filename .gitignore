@@ -1,0 +1,66 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.AppleRemoteDesktop
+*.icloud
+
+# C / C++
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.dSYM/
+*.dSYM.zip
+*.dSYM.tar.gz
+*.pdb
+*.ilk
+*.idb
+*.mod
+*.slo
+*.lo
+*.la
+*.al
+*.gch
+*.pch
+*.ipch
+*.d
+*.s
+*.i
+*.ii
+*.mi
+*.mii
+*.tmp
+*.swp
+*.swo
+*.log
+*.cache
+
+# Build dirs
+build/
+Build/
+bin/
+obj/
+dist/
+Debug/
+Release/
+
+# Tools
+compile_commands.json
